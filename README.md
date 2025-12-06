@@ -4,7 +4,6 @@
 </div>
 
 <!-- Typing Effect Title -->
-<h2 align="center" style="margin:12px 0 0 0; font-weight:800;">q4erty</h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=36D1DC&width=500&height=45&lines=Java+Developer;Spring+Boot+Enthusiast;Microservices+Builder;Full-Stack+Explorer"/>
